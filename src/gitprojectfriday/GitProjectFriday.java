@@ -13,7 +13,7 @@ public class GitProjectFriday {
     /**
      * @param args the command line arguments
      */
-    
+    // changed on remote
     
     public static void main(String[] args) {
         
